@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http:schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item
+        android:id="@+id/show_graph_item"
+        android:title="@string/show_graph"/>
+    <item
+        android:id="@+id/qize_list_item"
+        android:title="@string/qize_list">
+        <menu>
+            <item
+                android:id="@+id/qize_1"
+                android:title="@string/qize_1"/>
+            <item
+                android:id="@+id/qize_2"
+                android:title="@string/qize_2"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/finish_application"
+        android:title="@string/finish"/>
+
+</menu>

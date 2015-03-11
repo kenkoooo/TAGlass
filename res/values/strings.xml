@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TA-Glass</string>
+    <!-- <string name="hello_world">Hello world!</string> -->
+    <string name="action_settings">Settings</string>
+    <string name="glass_voice_trigger">TA_Glass</string>
+    <string name="show_graph">show_graph</string>
+    <string name="show_comment">show_comment</string>
+    <string name="qize_list">qize_list</string>
+    <string name="qize_1">qize_1</string>
+    <string name="qize_2">qize_2</string>
+    <string name="finish">Finish Application</string>
+
+</resources>
